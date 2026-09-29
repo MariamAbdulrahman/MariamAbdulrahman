@@ -35,10 +35,9 @@ IT Graduate crafting seamless digital experiences — bridging the gap between r
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MariamAbdulrahman&show_icons=true&theme=tokyonight&count_private=true" alt="Mariam's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariamAbdulrahman&layout=compact&theme=tokyonight" alt="Most Used Languages" width="48%" />
-</p>
+![Mariam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MariamAbdulrahman&show_icons=true&theme=tokyonight&count_private=true)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MariamAbdulrahman&layout=compact&theme=tokyonight)
 
 ---
 
