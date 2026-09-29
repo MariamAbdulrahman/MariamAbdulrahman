@@ -35,10 +35,7 @@ IT Graduate crafting seamless digital experiences — bridging the gap between r
 
 ### 📊 GitHub Stats
 
-![Mariam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MariamAbdulrahman&show_icons=true&theme=tokyonight&count_private=true)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MariamAbdulrahman&layout=compact&theme=tokyonight)
-
+![Mariam's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MariamAbdulrahman&theme=tokyonight)
 ---
 
 ### 🌐 Connect with Me
