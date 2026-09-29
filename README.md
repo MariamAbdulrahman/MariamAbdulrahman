@@ -33,10 +33,5 @@ IT Graduate crafting seamless digital experiences — bridging the gap between r
 
 ---
 
-### 📊 GitHub Stats
-
-![Mariam's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MariamAbdulrahman&theme=tokyonight)
----
-
 ### 🌐 Connect with Me
 - 💼 [LinkedIn](https://linkedin.com/in/Mariam-Abdulrahman)
